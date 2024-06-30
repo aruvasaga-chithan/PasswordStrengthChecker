@@ -24,7 +24,7 @@ JavaScript: Implements the password strength evaluation logic and interactive fe
 
 **How to Use:**
     
-      git clone https://github.com/your-username/password-strength-checker-webpage.git
+      git clone https://github.com/aruvasaga-chithan/PasswordStrengthChecker.git
       cd password-strength-checker-webpage
   
 Clone or download the repository.
