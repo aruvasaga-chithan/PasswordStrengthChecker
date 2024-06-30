@@ -16,7 +16,6 @@ CSS: Styling for layout, responsiveness, and visual presentation.
 JavaScript: Implements the password strength evaluation logic and interactive features.
 **Previews**
 
-
 ![password-cheaker](https://github.com/aruvasaga-chithan/PasswordStrengthChecker/assets/171254104/855e64b6-244f-41dc-b191-cc6d1cc140a1)
 
 ![password-cheaker2](https://github.com/aruvasaga-chithan/PasswordStrengthChecker/assets/171254104/a0f9465d-45f7-44cf-a4cf-990e89711111)
@@ -24,9 +23,13 @@ JavaScript: Implements the password strength evaluation logic and interactive fe
 ![password-cheaker3](https://github.com/aruvasaga-chithan/PasswordStrengthChecker/assets/171254104/7376e3af-4ed4-419d-8618-83516a0acc39)
 
 **How to Use:**
+    
+      git clone https://github.com/your-username/password-strength-checker-webpage.git
+      cd password-strength-checker-webpage
+  
 Clone or download the repository.
 Open password-strength-checker.html in a web browser.
-Enter a password in the input field to see real-time strength analysis and feedback.
+Enter a password in the input field to see real-time strength analysis.
 
 
 Contributions:
